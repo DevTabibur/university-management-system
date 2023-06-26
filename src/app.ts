@@ -7,7 +7,12 @@ app.use(cors())
 app.use(express.json()) // parser
 app.use(express.urlencoded({ extended: true })) // parser
 
-app.get('/', (req: Request, res: Response) => {
+import usersRouter from './app/modules/users/users.router'
+
+// Application routes
+app.use('/api/v1/users', usersRouter)
+// Testing
+app.get('/', async (req: Request, res: Response) => {
   res.send('Hello World!')
 })
 
