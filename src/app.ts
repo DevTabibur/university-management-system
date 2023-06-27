@@ -11,6 +11,7 @@ import usersRouter from './app/modules/users/users.router'
 
 // Application routes
 app.use('/api/v1/users', usersRouter)
+
 // Testing
 app.get('/', async (req: Request, res: Response) => {
   res.send('Hello World!')

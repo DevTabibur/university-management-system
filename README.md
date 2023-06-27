@@ -1,0 +1,2 @@
+# PROBLEMS
+1. http://localhost:5000/api/v1/users/create-user  this API just create user once in first time. but after first time, thats API giving error. we should fix it. problems should be service or utils folder 
