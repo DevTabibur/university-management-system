@@ -9,7 +9,6 @@ const myFormat = printf(({ level, message, label, timestamp }) => {
   const hour = date.getHours()
   const minutes = date.getMinutes()
   const seconds = date.getSeconds()
-
   return `${date.toString()} ${hour}:${minutes}:${seconds} } [${label}] ${level}: ${message}`
 })
 
@@ -20,11 +19,10 @@ const logger = createLogger({
     label({ label: 'Programming - Hero' }),
     timestamp(),
     myFormat,
-    prettyPrint()
+    prettyPrint() // comment it for getting results without object
   ),
   transports: [
     new transports.Console(),
-
     new DailyRotateFile({
       filename: path.join(
         process.cwd(),
@@ -48,11 +46,10 @@ const errorLogger = createLogger({
     label({ label: 'Programming - Hero' }),
     timestamp(),
     myFormat,
-    prettyPrint()
+    prettyPrint() // comment it for getting results without object
   ),
   transports: [
     new transports.Console(),
-
     new DailyRotateFile({
       filename: path.join(
         process.cwd(),
@@ -70,8 +67,3 @@ const errorLogger = createLogger({
 })
 
 export { logger, errorLogger }
-
-// folder should be
-// logs/ => winston
-// successes/ => success.log
-// errors/ => error.log

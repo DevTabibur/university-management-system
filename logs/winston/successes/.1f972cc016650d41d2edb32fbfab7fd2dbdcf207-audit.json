@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\.1f972cc016650d41d2edb32fbfab7fd2dbdcf207-audit.json",
-    "files": [
-        {
-            "date": 1687863840660,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-17.log",
-            "hash": "46a48dc9d498e86ccd8a351b673e3beac4df07579fa5057a8fc66edf045ee687"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\.1f972cc016650d41d2edb32fbfab7fd2dbdcf207-audit.json",
+  "files": [
+    {
+      "date": 1687863840660,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-17.log",
+      "hash": "46a48dc9d498e86ccd8a351b673e3beac4df07579fa5057a8fc66edf045ee687"
+    }
+  ],
+  "hashType": "sha256"
 }
