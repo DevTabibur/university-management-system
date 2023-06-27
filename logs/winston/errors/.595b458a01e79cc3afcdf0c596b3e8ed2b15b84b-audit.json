@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\.595b458a01e79cc3afcdf0c596b3e8ed2b15b84b-audit.json",
+    "files": [
+        {
+            "date": 1687863840663,
+            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-17.log",
+            "hash": "a0f80a1fcc1d9212fbe869a531d9b109a2c3f68f67b56debfa685b6d8fb0a876"
+        }
+    ],
+    "hashType": "sha256"
+}
