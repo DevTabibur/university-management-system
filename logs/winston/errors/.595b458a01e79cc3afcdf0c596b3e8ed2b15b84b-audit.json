@@ -29,6 +29,11 @@
             "date": 1687925546580,
             "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-10.log",
             "hash": "a05c6f4864d0de948fdb27ccc9b4890964ad355e3418278a4080bfdbd97db129"
+        },
+        {
+            "date": 1687964172332,
+            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-20.log",
+            "hash": "18769ab9274abec14f2fdd235e09f06f2ab14af2fc1d2e0840e1cff90e8a2ba6"
         }
     ],
     "hashType": "sha256"

@@ -1,14 +1,14 @@
 import express, { Application, Request, Response } from 'express'
 import cors from 'cors'
 const app: Application = express()
-import globalErrorHandler from './app/middlewares/globalErrorHandler'
+// import globalErrorHandler from './app/middlewares/globalErrorHandler'
 
 // middleware
 app.use(cors())
 app.use(express.json()) // parser
 app.use(express.urlencoded({ extended: true })) // parser
 // global error handler middleware
-app.use(globalErrorHandler)
+// app.use(globalErrorHandler)
 
 import usersRouter from './app/modules/users/users.router'
 
