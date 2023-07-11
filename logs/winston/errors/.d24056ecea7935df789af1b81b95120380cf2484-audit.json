@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\errors\\.d24056ecea7935df789af1b81b95120380cf2484-audit.json",
+    "files": [
+        {
+            "date": 1689046223422,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\errors\\UM-error-2023-11-07-09.log",
+            "hash": "d4176719dd25ffd7ff1968079572cba8245a749515abd24b189d7b42a8bf0738"
+        },
+        {
+            "date": 1689048015233,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\errors\\UM-error-2023-11-07-10.log",
+            "hash": "d7eefb5b736124c0359a92b9ba9817d2c8b2b8e6806b5953768a60b6196a6070"
+        }
+    ],
+    "hashType": "sha256"
+}

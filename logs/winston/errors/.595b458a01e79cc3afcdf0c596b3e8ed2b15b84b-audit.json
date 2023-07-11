@@ -1,40 +1,40 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\.595b458a01e79cc3afcdf0c596b3e8ed2b15b84b-audit.json",
+  "files": [
+    {
+      "date": 1687863840663,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-17.log",
+      "hash": "a0f80a1fcc1d9212fbe869a531d9b109a2c3f68f67b56debfa685b6d8fb0a876"
     },
-    "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\.595b458a01e79cc3afcdf0c596b3e8ed2b15b84b-audit.json",
-    "files": [
-        {
-            "date": 1687863840663,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-17.log",
-            "hash": "a0f80a1fcc1d9212fbe869a531d9b109a2c3f68f67b56debfa685b6d8fb0a876"
-        },
-        {
-            "date": 1687867381338,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-18.log",
-            "hash": "dc4045e40c0adc2e0869900913f215cf24bbd4f6d8caa0f64951ed4b81d54bfd"
-        },
-        {
-            "date": 1687870895466,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-19.log",
-            "hash": "e9580bdadf4f683250bcb8d4f6b48ea616bc58d98f190b7032a03d1134333232"
-        },
-        {
-            "date": 1687922738957,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-09.log",
-            "hash": "c0dcbd7fc81685671948a0a9c5b8b36215f739009e0fc16e5d5e38598c5f73de"
-        },
-        {
-            "date": 1687925546580,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-10.log",
-            "hash": "a05c6f4864d0de948fdb27ccc9b4890964ad355e3418278a4080bfdbd97db129"
-        },
-        {
-            "date": 1687964172332,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-20.log",
-            "hash": "18769ab9274abec14f2fdd235e09f06f2ab14af2fc1d2e0840e1cff90e8a2ba6"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1687867381338,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-18.log",
+      "hash": "dc4045e40c0adc2e0869900913f215cf24bbd4f6d8caa0f64951ed4b81d54bfd"
+    },
+    {
+      "date": 1687870895466,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-27-06-19.log",
+      "hash": "e9580bdadf4f683250bcb8d4f6b48ea616bc58d98f190b7032a03d1134333232"
+    },
+    {
+      "date": 1687922738957,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-09.log",
+      "hash": "c0dcbd7fc81685671948a0a9c5b8b36215f739009e0fc16e5d5e38598c5f73de"
+    },
+    {
+      "date": 1687925546580,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-10.log",
+      "hash": "a05c6f4864d0de948fdb27ccc9b4890964ad355e3418278a4080bfdbd97db129"
+    },
+    {
+      "date": 1687964172332,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\errors\\UM-error-2023-28-06-20.log",
+      "hash": "18769ab9274abec14f2fdd235e09f06f2ab14af2fc1d2e0840e1cff90e8a2ba6"
+    }
+  ],
+  "hashType": "sha256"
 }

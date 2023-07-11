@@ -1,40 +1,40 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\.1f972cc016650d41d2edb32fbfab7fd2dbdcf207-audit.json",
+  "files": [
+    {
+      "date": 1687863840660,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-17.log",
+      "hash": "46a48dc9d498e86ccd8a351b673e3beac4df07579fa5057a8fc66edf045ee687"
     },
-    "auditLog": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\.1f972cc016650d41d2edb32fbfab7fd2dbdcf207-audit.json",
-    "files": [
-        {
-            "date": 1687863840660,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-17.log",
-            "hash": "46a48dc9d498e86ccd8a351b673e3beac4df07579fa5057a8fc66edf045ee687"
-        },
-        {
-            "date": 1687867381330,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-18.log",
-            "hash": "176f842934ca3dfcdd163c5d944fb1d8f8eccc0d1c13358f79c9f75f2b985303"
-        },
-        {
-            "date": 1687870895461,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-19.log",
-            "hash": "010dd1fd80ee40ee1de43daf304999fa6da4b96b4a128497e2ccf790c387d0d4"
-        },
-        {
-            "date": 1687922738944,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-09.log",
-            "hash": "d34a3a22b280827cefef2f01c579107ed46cc70692c108c9c0dfa2dcce0ba602"
-        },
-        {
-            "date": 1687925546571,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-10.log",
-            "hash": "118713afd7dc7fb10c12b7f86ebd6654191f541ef2f1a285163de0cd41defb4c"
-        },
-        {
-            "date": 1687964172324,
-            "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-20.log",
-            "hash": "93b862e6aaddcde4fef5ac8a8d91c71b8c9e072a7af9f79a08a41703e48268ed"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1687867381330,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-18.log",
+      "hash": "176f842934ca3dfcdd163c5d944fb1d8f8eccc0d1c13358f79c9f75f2b985303"
+    },
+    {
+      "date": 1687870895461,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-27-06-19.log",
+      "hash": "010dd1fd80ee40ee1de43daf304999fa6da4b96b4a128497e2ccf790c387d0d4"
+    },
+    {
+      "date": 1687922738944,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-09.log",
+      "hash": "d34a3a22b280827cefef2f01c579107ed46cc70692c108c9c0dfa2dcce0ba602"
+    },
+    {
+      "date": 1687925546571,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-10.log",
+      "hash": "118713afd7dc7fb10c12b7f86ebd6654191f541ef2f1a285163de0cd41defb4c"
+    },
+    {
+      "date": 1687964172324,
+      "name": "C:\\Users\\Asus\\Desktop\\university-management-system\\logs\\winston\\successes\\UM-success-2023-28-06-20.log",
+      "hash": "93b862e6aaddcde4fef5ac8a8d91c71b8c9e072a7af9f79a08a41703e48268ed"
+    }
+  ],
+  "hashType": "sha256"
 }

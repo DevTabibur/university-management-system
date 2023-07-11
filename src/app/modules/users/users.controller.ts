@@ -1,14 +1,14 @@
-import { NextFunction, Request, Response } from 'express'
-import usersService from './users.service'
+import { NextFunction, Request, RequestHandler, Response } from 'express'
+import { UserService } from './users.service'
 
-export const createUser = async (
+export const createUser: RequestHandler = async (
   req: Request,
   res: Response,
   next: NextFunction
 ) => {
   try {
     const { user } = req.body
-    const result = await usersService.createUser(user)
+    const result = await UserService.createUser(user)
     res.status(200).json({
       success: 'true',
       code: 200,
