@@ -1,7 +1,7 @@
 import { NextFunction, Request, RequestHandler, Response } from 'express'
 import { UserService } from './users.service'
 
-export const createUser: RequestHandler = async (
+const createUser: RequestHandler = async (
   req: Request,
   res: Response,
   next: NextFunction
@@ -20,6 +20,6 @@ export const createUser: RequestHandler = async (
   }
 }
 
-export default {
+export const UserController = {
   createUser,
 }
