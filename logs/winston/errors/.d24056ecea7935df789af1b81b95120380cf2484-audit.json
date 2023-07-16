@@ -24,6 +24,11 @@
             "date": 1689494798345,
             "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\errors\\UM-error-2023-16-07-14.log",
             "hash": "f387da92b74e75b6d3570284b8bcdaf7dc2600a8195ed0290320c984bcb20407"
+        },
+        {
+            "date": 1689503780835,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\errors\\UM-error-2023-16-07-16.log",
+            "hash": "adf94ed5dcf9f4b14e71836b56c2ae73909418f7c0dbae0c19d7a0257df1460d"
         }
     ],
     "hashType": "sha256"

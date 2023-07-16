@@ -1,4 +1,3 @@
-// different way to handle error
 class ApiError extends Error {
   statusCode: number
 
@@ -8,7 +7,7 @@ class ApiError extends Error {
     if (stack) {
       this.stack = stack
     } else {
-      Error.captureStackTrace(this, this.constructor) // statusCode, error.message => send hobe 2 ta params hisabe
+      Error.captureStackTrace(this, this.constructor)
     }
   }
 }
