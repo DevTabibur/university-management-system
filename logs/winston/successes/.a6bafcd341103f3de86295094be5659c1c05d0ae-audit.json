@@ -59,6 +59,16 @@
             "date": 1689588104762,
             "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-16.log",
             "hash": "59b0bbb31dda51d7b51f2f44a5ed6397f2da106033242a14fb25e9984452c6c0"
+        },
+        {
+            "date": 1689596774773,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-18.log",
+            "hash": "0e6713559ba0fa96d01f5cabd12d2dd2760fd30f8467e6c885de2836f9ee035e"
+        },
+        {
+            "date": 1689601046170,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-19.log",
+            "hash": "49f58a475a800802922ddce2f10c90a9b9857143ab2b7e7a074573c9a88aa922"
         }
     ],
     "hashType": "sha256"
