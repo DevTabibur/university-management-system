@@ -10,10 +10,12 @@ app.use(express.urlencoded({ extended: true })); // parser
 // global error handler middleware
 // app.use(globalErrorHandler)
 
-import usersRouter from './app/modules/users/users.router';
+import { AcademicSemesterRoutes } from './app/modules/academicSemester/academicSemester.route';
+import { UsersRouter } from './app/modules/users/users.router';
 
 // Application routes
-app.use('/api/v1/users', usersRouter);
+app.use('/api/v1/users', UsersRouter);
+app.use('/api/v1/academic-semesters', AcademicSemesterRoutes);
 
 // Testing
 app.get('/', async (req: Request, res: Response) => {
