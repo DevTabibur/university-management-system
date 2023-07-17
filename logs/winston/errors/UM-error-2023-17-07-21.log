@@ -1,0 +1,198 @@
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:16:32.833Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:25.670Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:28.179Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:29.052Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:29.555Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:29.729Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:29.921Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:30.343Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:30.522Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:30.706Z'
+}
+{
+  code: 'ERR_HTTP_INVALID_STATUS_CODE',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid status code: undefined',
+  stack: 'RangeError: Invalid status code: undefined\n' +
+    '    at new NodeError (node:internal/errors:400:5)\n' +
+    '    at ServerResponse.writeHead (node:_http_server:343:11)\n' +
+    '    at ServerResponse._implicitHeader (node:_http_server:334:8)\n' +
+    '    at write_ (node:_http_outgoing:886:9)\n' +
+    '    at ServerResponse.end (node:_http_outgoing:996:5)\n' +
+    '    at ServerResponse.send (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:232:10)\n' +
+    '    at ServerResponse.json (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\express\\lib\\response.js:278:15)\n' +
+    '    at sendResponse (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\shared\\sendResponse.ts:24:31)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:35:17\n' +
+    '    at Generator.next (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-17T15:17:30.880Z'
+}
