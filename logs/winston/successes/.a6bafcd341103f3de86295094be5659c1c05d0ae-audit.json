@@ -54,6 +54,11 @@
             "date": 1689585677018,
             "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-15.log",
             "hash": "0602560d3a39e66cced4ecd2c27468ceebbcd1cfbd02bec161b992be171e8616"
+        },
+        {
+            "date": 1689588104762,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-16.log",
+            "hash": "59b0bbb31dda51d7b51f2f44a5ed6397f2da106033242a14fb25e9984452c6c0"
         }
     ],
     "hashType": "sha256"
