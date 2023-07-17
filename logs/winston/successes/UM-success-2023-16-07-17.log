@@ -46,3 +46,15 @@
   label: 'Programming - Hero',
   timestamp: '2023-07-16T11:18:57.511Z'
 }
+{
+  message: 'db connection is successful',
+  level: 'info',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-16T11:21:06.394Z'
+}
+{
+  message: 'Applications is listening on PORT 5000',
+  level: 'info',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-16T11:21:06.398Z'
+}
