@@ -18,6 +18,8 @@ router.patch(
   AcademicSemesterController.updateSemester
 );
 
+router.delete('/:id', AcademicSemesterController.deleteSemester);
+
 // get route sobar last e hobe
 router.get('/', AcademicSemesterController.getAllSemesters);
 

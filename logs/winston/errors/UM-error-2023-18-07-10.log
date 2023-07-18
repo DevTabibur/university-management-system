@@ -62,3 +62,129 @@
   label: 'Programming - Hero',
   timestamp: '2023-07-18T04:53:24.912Z'
 }
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:22.561Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:24.124Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:24.335Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:24.508Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:24.675Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:24.854Z'
+}
+{
+  statusCode: 400,
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code',
+  stack: 'Error: Invalid Semester Code\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:125:11\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:4:12)\n' +
+    '    at Object.updateSemester (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.service.ts:119:40)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:70:50\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\src\\app\\modules\\academicSemester\\academicSemester.controller.ts:8:71\n' +
+    '    at new Promise (<anonymous>)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:57:25.032Z'
+}
