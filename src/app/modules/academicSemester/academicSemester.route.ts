@@ -12,7 +12,9 @@ router.post(
 );
 
 router.get('/:id', AcademicSemesterController.getASingleSemester);
+router.patch('/:id', AcademicSemesterController.updateSemester);
 
+// get route sobar last e hobe
 router.get('/', AcademicSemesterController.getAllSemesters);
 
 export const AcademicSemesterRoutes = router;

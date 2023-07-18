@@ -1,110 +1,115 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\.a6bafcd341103f3de86295094be5659c1c05d0ae-audit.json",
-  "files": [
-    {
-      "date": 1689478361068,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-09.log",
-      "hash": "0ff98f7d99d720dd154fbc3bcc8914d388d167a46822b2d8d99a5f510528cdad"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1689481559334,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-10.log",
-      "hash": "e6329aa9b9a1b621d7a156bc698a9350f4263c683553b1da339601124cfc47f8"
-    },
-    {
-      "date": 1689493605101,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-13.log",
-      "hash": "379b7b4ac8549fd078bfe7cd6394a6251bcf69c7ad5bed47cfa5f252eb4bbeca"
-    },
-    {
-      "date": 1689494798342,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-14.log",
-      "hash": "f6f195f4e1c255f05e19de03b18392ad0f8673a50268fc5b051efef9b9d20fd9"
-    },
-    {
-      "date": 1689503780827,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-16.log",
-      "hash": "da7823bd13eb13ab130a5cb2df0cda2a74f026de96c97a52945180c4db75510c"
-    },
-    {
-      "date": 1689505967431,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-17.log",
-      "hash": "d28d212accb33e79d75b86cbdc471c13159871a5d202d4b0129beb59317c173f"
-    },
-    {
-      "date": 1689517730813,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-20.log",
-      "hash": "fbc71460d3ab6ede06c87ad1395e6775adffd2c9eca6a9bb8fed6fc49851ba5c"
-    },
-    {
-      "date": 1689565265166,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-09.log",
-      "hash": "0ac85e755c8a8cf700eaffbb870a64219e3fb5477de81f7e94e2ca7d123cb196"
-    },
-    {
-      "date": 1689570975730,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-11.log",
-      "hash": "40b236d294e3120ee64b1a30987ebe499d590874540829f41a6f21c45db60394"
-    },
-    {
-      "date": 1689585677018,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-15.log",
-      "hash": "0602560d3a39e66cced4ecd2c27468ceebbcd1cfbd02bec161b992be171e8616"
-    },
-    {
-      "date": 1689588104762,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-16.log",
-      "hash": "59b0bbb31dda51d7b51f2f44a5ed6397f2da106033242a14fb25e9984452c6c0"
-    },
-    {
-      "date": 1689596774773,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-18.log",
-      "hash": "0e6713559ba0fa96d01f5cabd12d2dd2760fd30f8467e6c885de2836f9ee035e"
-    },
-    {
-      "date": 1689601046170,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-19.log",
-      "hash": "49f58a475a800802922ddce2f10c90a9b9857143ab2b7e7a074573c9a88aa922"
-    },
-    {
-      "date": 1689603262729,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-20.log",
-      "hash": "0e0b4897932b10de48f522ae7a8f35987e56168c9a758a363e00b0b6fac167fb"
-    },
-    {
-      "date": 1689606595579,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-21.log",
-      "hash": "9e0bdf7df309d71dcfcfc6aedb0cc3273d61f9deac1780de4e719eb687cf0d23"
-    },
-    {
-      "date": 1689610362754,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-22.log",
-      "hash": "be92f03925bc05dde9036b98e1a817b06635d102b40fd03e3d46f71e1041f435"
-    },
-    {
-      "date": 1689613693020,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-23.log",
-      "hash": "837fd1f2c4245443c9e954f6df1981ac90b536de1007d2c833404cb74f3f0715"
-    },
-    {
-      "date": 1689616812414,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-00.log",
-      "hash": "641d95ed2a224eb2d5f212e99188acabf10dd19e20145c040249ec873be492bb"
-    },
-    {
-      "date": 1689646653875,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-08.log",
-      "hash": "65e85f06a554effb1c68af99d88c9329c45896f2ab897e41c8749cd3f4f0e5b2"
-    },
-    {
-      "date": 1689650203383,
-      "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-09.log",
-      "hash": "f160dfc4e84db6677a8c0fab43bd8d7cbde4f3f0f77f2f590535d2a66eedcba5"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\.a6bafcd341103f3de86295094be5659c1c05d0ae-audit.json",
+    "files": [
+        {
+            "date": 1689478361068,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-09.log",
+            "hash": "0ff98f7d99d720dd154fbc3bcc8914d388d167a46822b2d8d99a5f510528cdad"
+        },
+        {
+            "date": 1689481559334,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-10.log",
+            "hash": "e6329aa9b9a1b621d7a156bc698a9350f4263c683553b1da339601124cfc47f8"
+        },
+        {
+            "date": 1689493605101,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-13.log",
+            "hash": "379b7b4ac8549fd078bfe7cd6394a6251bcf69c7ad5bed47cfa5f252eb4bbeca"
+        },
+        {
+            "date": 1689494798342,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-14.log",
+            "hash": "f6f195f4e1c255f05e19de03b18392ad0f8673a50268fc5b051efef9b9d20fd9"
+        },
+        {
+            "date": 1689503780827,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-16.log",
+            "hash": "da7823bd13eb13ab130a5cb2df0cda2a74f026de96c97a52945180c4db75510c"
+        },
+        {
+            "date": 1689505967431,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-17.log",
+            "hash": "d28d212accb33e79d75b86cbdc471c13159871a5d202d4b0129beb59317c173f"
+        },
+        {
+            "date": 1689517730813,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-16-07-20.log",
+            "hash": "fbc71460d3ab6ede06c87ad1395e6775adffd2c9eca6a9bb8fed6fc49851ba5c"
+        },
+        {
+            "date": 1689565265166,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-09.log",
+            "hash": "0ac85e755c8a8cf700eaffbb870a64219e3fb5477de81f7e94e2ca7d123cb196"
+        },
+        {
+            "date": 1689570975730,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-11.log",
+            "hash": "40b236d294e3120ee64b1a30987ebe499d590874540829f41a6f21c45db60394"
+        },
+        {
+            "date": 1689585677018,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-15.log",
+            "hash": "0602560d3a39e66cced4ecd2c27468ceebbcd1cfbd02bec161b992be171e8616"
+        },
+        {
+            "date": 1689588104762,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-16.log",
+            "hash": "59b0bbb31dda51d7b51f2f44a5ed6397f2da106033242a14fb25e9984452c6c0"
+        },
+        {
+            "date": 1689596774773,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-18.log",
+            "hash": "0e6713559ba0fa96d01f5cabd12d2dd2760fd30f8467e6c885de2836f9ee035e"
+        },
+        {
+            "date": 1689601046170,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-19.log",
+            "hash": "49f58a475a800802922ddce2f10c90a9b9857143ab2b7e7a074573c9a88aa922"
+        },
+        {
+            "date": 1689603262729,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-20.log",
+            "hash": "0e0b4897932b10de48f522ae7a8f35987e56168c9a758a363e00b0b6fac167fb"
+        },
+        {
+            "date": 1689606595579,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-21.log",
+            "hash": "9e0bdf7df309d71dcfcfc6aedb0cc3273d61f9deac1780de4e719eb687cf0d23"
+        },
+        {
+            "date": 1689610362754,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-22.log",
+            "hash": "be92f03925bc05dde9036b98e1a817b06635d102b40fd03e3d46f71e1041f435"
+        },
+        {
+            "date": 1689613693020,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-17-07-23.log",
+            "hash": "837fd1f2c4245443c9e954f6df1981ac90b536de1007d2c833404cb74f3f0715"
+        },
+        {
+            "date": 1689616812414,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-00.log",
+            "hash": "641d95ed2a224eb2d5f212e99188acabf10dd19e20145c040249ec873be492bb"
+        },
+        {
+            "date": 1689646653875,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-08.log",
+            "hash": "65e85f06a554effb1c68af99d88c9329c45896f2ab897e41c8749cd3f4f0e5b2"
+        },
+        {
+            "date": 1689650203383,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-09.log",
+            "hash": "f160dfc4e84db6677a8c0fab43bd8d7cbde4f3f0f77f2f590535d2a66eedcba5"
+        },
+        {
+            "date": 1689653080821,
+            "name": "D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\logs\\winston\\successes\\UM-success-2023-18-07-10.log",
+            "hash": "78e07409881fd3f5da00feec86db78d7418b85307366cea4838b8cd51f66e9e0"
+        }
+    ],
+    "hashType": "sha256"
 }

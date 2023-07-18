@@ -113,8 +113,19 @@ const getASingleSemester = async (
   return result;
 };
 
+const updateSemester = async (
+  id: string,
+  payload: Partial<IAcademicSemester>
+): Promise<IAcademicSemester | null> => {
+  const result = await AcademicSemester.findOneAndUpdate({ _id: id }, payload, {
+    new: true, // new insert kora data ta show korbe, jodi update successful hoi
+  });
+  return result;
+};
+
 export const AcademicSemesterService = {
   createSemester,
   getAllSemesters,
   getASingleSemester,
+  updateSemester,
 };
