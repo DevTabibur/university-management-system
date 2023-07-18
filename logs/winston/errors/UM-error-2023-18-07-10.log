@@ -1,0 +1,64 @@
+{
+  issues: [
+    {
+      code: 'custom',
+      message: 'Either both title and code should be provided or neither',
+      path: []
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ [\n' +
+    '  {\n' +
+    '    "code": "custom",\n' +
+    '    "message": "Either both title and code should be provided or neither",\n' +
+    '    "path": []\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "custom",\n' +
+    '    "message": "Either both title and code should be provided or neither",\n' +
+    '    "path": []\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodEffects.parseAsync (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:53:18.825Z'
+}
+{
+  issues: [
+    {
+      code: 'custom',
+      message: 'Either both title and code should be provided or neither',
+      path: []
+    }
+  ],
+  addIssue: [Function (anonymous)],
+  addIssues: [Function (anonymous)],
+  name: 'ZodError',
+  level: 'error',
+  message: '🐱‍🏍 globalErrorHandler ~~ [\n' +
+    '  {\n' +
+    '    "code": "custom",\n' +
+    '    "message": "Either both title and code should be provided or neither",\n' +
+    '    "path": []\n' +
+    '  }\n' +
+    ']',
+  stack: 'ZodError: [\n' +
+    '  {\n' +
+    '    "code": "custom",\n' +
+    '    "message": "Either both title and code should be provided or neither",\n' +
+    '    "path": []\n' +
+    '  }\n' +
+    ']\n' +
+    '    at Object.get error [as error] (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\zod\\lib\\types.js:43:31)\n' +
+    '    at ZodEffects.parseAsync (D:\\PROJECTS\\Next Level Web 2.0\\university-management-system\\node_modules\\zod\\lib\\types.js:164:22)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:95:5)',
+  label: 'Programming - Hero',
+  timestamp: '2023-07-18T04:53:24.912Z'
+}

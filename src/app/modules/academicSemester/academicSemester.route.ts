@@ -12,7 +12,11 @@ router.post(
 );
 
 router.get('/:id', AcademicSemesterController.getASingleSemester);
-router.patch('/:id', AcademicSemesterController.updateSemester);
+router.patch(
+  '/:id',
+  validateRequest(AcademicSemesterValidation.updateAcademicSemesterZodSchema),
+  AcademicSemesterController.updateSemester
+);
 
 // get route sobar last e hobe
 router.get('/', AcademicSemesterController.getAllSemesters);
