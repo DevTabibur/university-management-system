@@ -17,6 +17,8 @@ export const findLastStudentId = async (): Promise<string | undefined> => {
   return lastStudent?.id ? lastStudent.id.substring(4) : undefined;
 };
 
+// generate student id
+
 export const generateStudentId = async (
   academicSemester: IAcademicSemester
 ): Promise<string> => {
